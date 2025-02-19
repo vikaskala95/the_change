@@ -1,0 +1,2 @@
+### Background
+Here we have perfromance results which are stored in microsoft excel , our job is to read all the excel files which are stored in \\ad001.siemens.net\dfs001\File\DE\Sinumerik_Performance\SinumerikOperate\MeasurementResults\PerformanceMeasurements_SquishAndTrace and create a new database in mysql and store all the details of excel sheets 
